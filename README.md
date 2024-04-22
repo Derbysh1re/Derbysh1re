@@ -15,8 +15,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg1Zm9qbDRvMndudW5wbDdiZjQwOTV6MTg4YnU4NGx1aGV6eTVnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eu5jaVImGyKnsohsGy/giphy.gif" width="400"/>
 </div>
+<h3 align="center">Между мной и аналитикой случилась химия</h3>
 
-https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge
 ---------------
 
 Занимаясь своей основной рабочей деятельностью, очень нравилось переводить рутинные задачи в цифровой вид и по возможности автоматизировать. Особенно учет, базовые расчеты и специальные расчеты. На основе этого стремления появился интерес к программированию и анализу данных. Удалось значительно упростить работу и получить экономический эффект. Такой видимый результат сильно заряжает. Хочется двигаться дальше и не останавливаться. 
