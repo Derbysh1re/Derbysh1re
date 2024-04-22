@@ -2,10 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Аналитик данных</h3>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3poNzMweHE1b2ZzajhldzNjeGN5YTFldHBtbTdrajB6dXRhcm53YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDMyZ2w1b3o4a2Mza3dzcGRka29lcGQwY3F5bXNsaGU0dWlnZDVydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400"/>
 </div>
-============================================================================================
-
 
 ---------------
 
@@ -17,6 +15,8 @@
 
 * 🌍  I'm based in Ramenskoe, Moskovskaya oblast
 * ✉️  You can contact me at [1descendant@gmail.com](mailto:1descendant@gmail.com)
+
+---------------
 
 ### Skills
 
