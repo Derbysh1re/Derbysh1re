@@ -1,6 +1,6 @@
 <h1 align="center">Привет, меня зовут Игорь</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Аналитик данных</h3>
+<h2 align="center">Аналитик данных</h2>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDMyZ2w1b3o4a2Mza3dzcGRka29lcGQwY3F5bXNsaGU0dWlnZDVydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400"/>
 </div>
