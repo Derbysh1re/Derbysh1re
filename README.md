@@ -1,10 +1,22 @@
 <h1 align="center">Привет, меня зовут Игорь</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<div align="center" id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/discord-purple?logo=discord&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
+  </a>
+</div>
 <h2 align="center">Аналитик данных</h2>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHV0NXo3Z2ZxaTJkZDFsMmd4N2xmNHhzNGcxaGdiMjFybTN6YXA0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z0OnJSydA6CXPmZ47W/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg1Zm9qbDRvMndudW5wbDdiZjQwOTV6MTg4YnU4NGx1aGV6eTVnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eu5jaVImGyKnsohsGy/giphy.gif" width="400"/>
 </div>
 
+https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge
 ---------------
 
 Занимаясь своей основной рабочей деятельностью, очень нравилось переводить рутинные задачи в цифровой вид и по возможности автоматизировать. Особенно учет, базовые расчеты и специальные расчеты. На основе этого стремления появился интерес к программированию и анализу данных. Удалось значительно упростить работу и получить экономический эффект. Такой видимый результат сильно заряжает. Хочется двигаться дальше и не останавливаться. 
