@@ -1,7 +1,7 @@
 <h1 align="center">Привет, меня зовут Игорь</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align="center" id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://mail.google.com/mail/u/0/#inbox">
     <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
