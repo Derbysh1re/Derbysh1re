@@ -20,8 +20,32 @@
 ---------------
 <p align="justify">Имею высшее образование в области химической технологии и большой опыт в планировании производственных задач. Однажды в работе открыл для себя огромный потенциал в использовании данных. С того времени погрузился в тему и не планирую останавливаться</p>
 
+---------------
 
+<h3 align="left">Инструменты и навыки:</a> 
 
+<div id="badges">
+  <a>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="pandas Badge"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="pandas Badge"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="pandas Badge"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Tableau-%2300C4CC.svg?style=for-the-badge&logo=Tableau&logoColor=white" alt="pandas Badge"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="pandas Badge"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/API-%23000.svg?style=for-the-badge&logo=API&logoColor=white" alt="pandas Badge"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Mathematical%20statistics-%23B7178C.svg?style=for-the-badge&logo=Mathematical%20statistics&logoColor=white" alt="pandas Badge"/>
+  </a>
 <!--
 **Derbysh1re/Derbysh1re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
