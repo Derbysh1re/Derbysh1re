@@ -24,29 +24,32 @@
 
 <h3 align="left">Инструменты и навыки:</a> 
 
-<div id="badges">
+-----
+
+<div style="padding-bottom: 20px" id="badges">
   <a>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="pandas Badge"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="pandas Badge"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=SQL&logoColor=white alt="SQL Badge"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="pandas Badge"/>
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft_Excel Badge"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Tableau-%2300C4CC.svg?style=for-the-badge&logo=Tableau&logoColor=white" alt="pandas Badge"/>
+    <img src="https://img.shields.io/badge/Tableau-%2300C4CC.svg?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau- Badge"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="pandas Badge"/>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git Badge"/>
   </a>
   <a>
     <img src="https://img.shields.io/badge/API-%23ff6347.svg?style=for-the-badge&logo=API&logoColor=white%22%20alt=%22pandas%20Badge"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Mathematical%20statistics-%23B7178C.svg?style=for-the-badge&logo=Mathematical%20statistics&logoColor=white" alt="pandas Badge"/>
+    <img src="https://img.shields.io/badge/Mathematical%20statistics-%23B7178C.svg?style=for-the-badge&logo=Mathematical%20statistics&logoColor=white" alt="Mathematical%20statistics Badge"/>
   </a>
-<!--
+
+  <!--
 **Derbysh1re/Derbysh1re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
