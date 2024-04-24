@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="pandas Badge"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/API-%23000.svg?style=for-the-badge&logo=API&logoColor=white" alt="pandas Badge"/>
+    <img src="https://img.shields.io/badge/API-%23ff6347.svg?style=for-the-badge&logo=API&logoColor=white%22%20alt=%22pandas%20Badge"/>
   </a>
   <a>
     <img src="https://img.shields.io/badge/Mathematical%20statistics-%23B7178C.svg?style=for-the-badge&logo=Mathematical%20statistics&logoColor=white" alt="pandas Badge"/>
