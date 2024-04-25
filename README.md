@@ -50,6 +50,13 @@
   </a>
 </div>
 
+### Мои проекты:
+
+|Название проекта|Описание проекта|Стек|
+|---|---|---|
+|[Project_e_commerce](https://github.com/IgorA1ekseev/Project_e_commerce)|Провеление анализа покупок пользователей. Когорнтный анализ. RFM - сегментация|pandas, requests, numpy, seaborn, matplotlib|
+|[Mobile_game_project](https://github.com/IgorA1ekseev/Mobile_game_project)|Написана функция для расчета Retention Rate. Анализ A/B тестирования, определены основные метрики, проведены статистические тесты. Определен набор метрик для тематического события|pandas, requests, numpy, seaborn, matplotlib, scipy|
+
 
   <!--
 **Derbysh1re/Derbysh1re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
