@@ -13,7 +13,7 @@
 </div>
 <h2 align="center">Аналитик данных</h2>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg1Zm9qbDRvMndudW5wbDdiZjQwOTV6MTg4YnU4NGx1aGV6eTVnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eu5jaVImGyKnsohsGy/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg1Zm9qbDRvMndudW5wbDdiZjQwOTV6MTg4YnU4NGx1aGV6eTVnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eu5jaVImGyKnsohsGy/giphy.gif" width="250"/>
 </div>
 <h3 align="center">Между мной и аналитикой случилась химия</h3>
 
