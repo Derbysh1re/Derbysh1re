@@ -60,6 +60,11 @@
 |[Mobile_game_project](https://github.com/IgorA1ekseev/Mobile_game_project)|Написана функция для расчета Retention Rate. Анализ A/B тестирования, определены основные метрики, проведены статистические тесты. Определен набор метрик для тематического события|pandas, requests, numpy, seaborn, matplotlib, scipy|
 |[Sales_analytics](https://github.com/IgorA1ekseev/Sales_Analytics)|Рассчитаны необходимые показатели с помощью мер, созданы графики, представлена ABC номенклатура, собран [дэшборд](https://drive.google.com/file/d/11PPy7JHFhJRltmuQxkJK1tkPLWAQCJ7b/view?usp=drive_link)|Power BI, Excel|
 
+---------------
+### Образование:
+|Название курса|Ссылка на сертифика|
+|---|---|
+|Karpov.Courses "Аналитик данных"|[ссылка](https://lab.karpov.courses/certificate/55919194-6513-4546-94e5-a0b746c11124/)|
   <!--
 **Derbysh1re/Derbysh1re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
