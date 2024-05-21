@@ -1,4 +1,4 @@
-<h1 align="center">Привет, меня зовут Игорь, я аналитик данных</a> 
+<h1 align="center">Привет, меня зовут Игорь</a> 
 
 <div align="center" id="badges">
   <a href="https://mail.google.com/mail/u/0/#inbox">
