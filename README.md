@@ -61,6 +61,7 @@
 |[Sales_analytics](https://github.com/IgorA1ekseev/Sales_Analytics)|Рассчитаны необходимые показатели с помощью мер, созданы графики, представлена ABC номенклатура, собран [дэшборд](https://drive.google.com/file/d/11PPy7JHFhJRltmuQxkJK1tkPLWAQCJ7b/view?usp=drive_link)|Power BI, Excel|
 
 ### Курсы:
+
 |Название курса|Ссылка на сертификат|
 |---|---|
 |Karpov.Courses "Аналитик данных"|[сертификат](https://lab.karpov.courses/certificate/55919194-6513-4546-94e5-a0b746c11124/)|
