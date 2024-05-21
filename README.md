@@ -48,6 +48,9 @@
   <a>
     <img src="https://img.shields.io/badge/Mathematical%20statistics-%23B7178C.svg?style=for-the-badge&logo=Mathematical%20statistics&logoColor=white" alt="Mathematical%20statistics Badge"/>
   </a>
+  <a>
+    <img src="https://img.shields.io/badge/Power%20BI-white.svg?style=for-the-badge&logo=PowerBI&logoColor=white" alt="Mathematical%20statistics Badge"/>
+  </a>
 </div>
 
 ### Мои проекты:
