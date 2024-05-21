@@ -60,12 +60,11 @@
 |[Mobile_game_project](https://github.com/IgorA1ekseev/Mobile_game_project)|Написана функция для расчета Retention Rate. Анализ A/B тестирования, определены основные метрики, проведены статистические тесты. Определен набор метрик для тематического события|pandas, requests, numpy, seaborn, matplotlib, scipy|
 |[Sales_analytics](https://github.com/IgorA1ekseev/Sales_Analytics)|Рассчитаны необходимые показатели с помощью мер, созданы графики, представлена ABC номенклатура, собран [дэшборд](https://drive.google.com/file/d/11PPy7JHFhJRltmuQxkJK1tkPLWAQCJ7b/view?usp=drive_link)|Power BI, Excel|
 
----------------
 ### Курсы:
 |Название курса|Ссылка на сертификат|
 |---|---|
 |Karpov.Courses "Аналитик данных"|[сертификат](https://lab.karpov.courses/certificate/55919194-6513-4546-94e5-a0b746c11124/)|
-|"Поколение Python": курс для начинающих                                      |[сертификат](https://stepik.org/cert/1748777)|
+|"Поколение Python": курс для начинающих|[сертификат](https://stepik.org/cert/1748777)|
   <!--
 **Derbysh1re/Derbysh1re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
