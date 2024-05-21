@@ -62,9 +62,9 @@
 
 ### Курсы:
 
-|Название курса|Ссылка на сертификат|
-|------------------------------|-----------------------------------|
-|Karpov.Courses "Аналитик данных"|https://lab.karpov.courses/certificate/55919194-6513-4546-94e5-a0b746c11124/en/|
+|Название курса|Содержание курса|Ссылка на сертификат|
+|------------------------------|----|-----------------------------------|
+|Karpov.Courses "Аналитик данных"|Python, Git, SQL, Теория вероятностей, Статистика, Визуализация, Развитие продукта, Airflow, Проекты|https://lab.karpov.courses/certificate/55919194-6513-4546-94e5-a0b746c11124/en/|
 |"Поколение Python": курс для начинающих|https://stepik.org/cert/1748777|
   <!--
 **Derbysh1re/Derbysh1re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
