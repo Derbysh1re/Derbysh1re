@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/Mathematical%20statistics-%23B7178C.svg?style=for-the-badge&logo=Mathematical%20statistics&logoColor=white" alt="Mathematical%20statistics Badge"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Power%20BI-white.svg?style=for-the-badge&logo=PowerBI&logoColor=white" alt="Mathematical%20statistics Badge"/>
+    <img src="https://img.shields.io/badge/Power%20BI-red.svg?style=for-the-badge&logo=PowerBI&logoColor=white" alt="Mathematical%20statistics Badge"/>
   </a>
 </div>
 
@@ -59,7 +59,7 @@
 |---|---|---|
 |[Project_e_commerce](https://github.com/IgorA1ekseev/Project_e_commerce)|Провеление анализа покупок пользователей. Когорнтный анализ. RFM - сегментация|pandas, requests, numpy, seaborn, matplotlib|
 |[Mobile_game_project](https://github.com/IgorA1ekseev/Mobile_game_project)|Написана функция для расчета Retention Rate. Анализ A/B тестирования, определены основные метрики, проведены статистические тесты. Определен набор метрик для тематического события|pandas, requests, numpy, seaborn, matplotlib, scipy|
-|[Аналитика продаж](https://github.com/IgorA1ekseev/Sales_Analytics)|Рассчитаны необходимые показатели с помощью мер, созданы графики, представлена ABC номенклатура, собран [дэшборд](https://drive.google.com/file/d/11PPy7JHFhJRltmuQxkJK1tkPLWAQCJ7b/view?usp=drive_link)|Power BI, Excel|
+|[Sales_analytics](https://github.com/IgorA1ekseev/Sales_Analytics)|Рассчитаны необходимые показатели с помощью мер, созданы графики, представлена ABC номенклатура, собран [дэшборд](https://drive.google.com/file/d/11PPy7JHFhJRltmuQxkJK1tkPLWAQCJ7b/view?usp=drive_link)|Power BI, Excel|
 
   <!--
 **Derbysh1re/Derbysh1re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
